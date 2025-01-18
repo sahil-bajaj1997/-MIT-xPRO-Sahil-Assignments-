@@ -1,0 +1,25 @@
+﻿Assignment 15.4: GUI Elements
+This assignment was very confusing because I genuinely didn’t understand what was expected of me. Do you want to see a wireframe or have these elements working? I couldn’t tell. I’m working under the assumption of the former. My game is very minimalistic in terms of GUI in the beginning so there’s only a few things that come to mind instead of the text box
+
+
+Elements I Picked
+1. Objective Text Box
+2. Backpack Button
+3. Backpack Button Menu
+4. Dialogue Box
+
+
+Objective Text Box
+This element is to tell players what the given objective is at any moment. There’s not a lot of these but there are just enough. I don’t think I will look at alternatives in terms of objects but definitely in terms of presentation
+
+
+Backpack Button
+The Backpack Button would open the backpack menu, which is depicted under the button in the scene because I didn’t know if I was expected to make these buttons work or not. I will use an icon in the project itself instead of just text but the object of button will stay.
+
+
+Backpack Button Menu
+The menu would consist of boxes that have small icons of objects and it would contain two boxes on the left, the top one showing a larger version of the icon with a second box underneath giving a description. I think I would try to refine this.
+
+
+Dialogue Box
+This element exists to show that there would be a dialogue box when I implement the main game and the conversation would be carried out through the dialogue box for now where the input would be players controlling the text in the box and then basic text showing being the output. I may refine this.
